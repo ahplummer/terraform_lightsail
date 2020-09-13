@@ -1,0 +1,5 @@
+.env
+.idea/
+.terraform/
+*.pem
+*.txt
